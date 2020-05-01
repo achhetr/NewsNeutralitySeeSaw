@@ -5,7 +5,7 @@ import datetime as dt
 import pandas as pd
 
 # number of tweets
-limit = 1000
+limit = None
 
 # user tweets
 user = input('Enter twitter username without @: ')

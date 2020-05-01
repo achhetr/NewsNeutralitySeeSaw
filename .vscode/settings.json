@@ -1,4 +1,6 @@
 {
-    "python.pythonPath": "c:\\Users\\Akash\\OneDrive\\projects-github\\Python\\NewsNeutrality\\net-neutrality-venv\\Scripts\\python.exe",
-    "git.ignoreLimitWarning": true
+    "python.pythonPath": "C:\\Users\\Akash\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "git.ignoreLimitWarning": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
