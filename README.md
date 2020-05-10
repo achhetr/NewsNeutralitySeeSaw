@@ -20,7 +20,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 #### Install dependencies 
 
-pip install -r requirement.txt
+pip install -r requirement.txt 
+
+or 
+
+Use virtual environment attached in the project 'net-neutrality-env'
 
 #### Run script
 
